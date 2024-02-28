@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Biswajeet Panda
-- 👀 I’m interested in JAVA, Python and MySQL
-- 🌱 I’m currently learning JAVA,MySQL and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:-zeetop93@gmail.com
+- Hi, I’m Biswajeet Panda
+- I’m interested in JAVA, Python, HTML, CSS and MySQL
+- I’m currently learning JavaScript and modern web technologies such as React JS and Express JS
+- How to reach me:-zeetop93@gmail.com
 
 <!---
 zeetpanda24/zeetpanda24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
