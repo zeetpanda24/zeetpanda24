@@ -21,7 +21,7 @@ I'm a Computer Science and Engineering student passionate about web development,
 ## Projects
 
 - [Vacay Genie]: "Vacay Genie is a vibrant travel platform crafted with HTML and CSS, offering a seamless user experience for exploring dream destinations, discovering travel guides, and booking unforgettable getaways."
-- [Rare Feathers]: "Rare Feathers is an exquisite fashion boutique showcasing unique designs and luxurious collections, elegantly crafted with a blend of HTML and CSS for a visually captivating online shopping experience."
+- [Rare Feathers]: "Rare Feathers is an exclusive online destination for exotic bird enthusiasts, featuring a wide variety of rare and beautiful birds for sale. Explore our captivating collection and experience the beauty of nature at Rare Feathers."
 - [Laundry Website]: "The Laundry Spot is your one-stop solution for all laundry needs, offering convenient online booking, quick turnaround times, and professional services. Our website, designed with HTML, CSS and JS ensures a user-friendly experience for hassle-free laundry management."
 - [URL Response Time Analysis and Database Report]: "Response Time Retrieval of a group of URLs read from a file, calculating the average response times of individual urls and storing them in daily, monthly and yearly table manner and inserting them into an Excel sheet  (Backend - Python, Database - MySQL, Excel)"
 - [File Integration and ELK Implementation]: "Merging three different excel sheets related to Ip addresses and their corresponding utilisation values into a single sheet and then implementing it to ELK. (Backend - Python, Technologies - Excel, ELK (elastic satck))"
