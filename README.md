@@ -5,7 +5,7 @@ I'm a Computer Science and Engineering student passionate about web development,
 - 🔭 I’m currently working on front-end web development projects.
 - 🌱 I’m currently learning Python backend development and also open source tools such as ELK.
 - 💬 Ask me about HTML, CSS, JavaScript, Python, Java.
-- 📫 How to reach me: [Email](mailto:jeetpanda490@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/biswajeet-panda-96a41726b/)
+- 📫 How to reach me: [Email](mailto:jeetpanda490@gmail.com) | [LinkedIn](https://www.linkedin.com/in/biswajeet-panda-96a41726b/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reading about ancient civilizations and mythologies.
 - 🏓 Hobbies: Gaming, Sports, Singing, Sketching
